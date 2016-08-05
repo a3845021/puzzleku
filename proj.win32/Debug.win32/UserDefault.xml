@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userDefaultRoot>
+    <GOAL_STAGE>12000</GOAL_STAGE>
+    <GAME_COUNT>150</GAME_COUNT>
+    <SLIDE_COUNT>40</SLIDE_COUNT>
+    <KEY_BOOM_COUNT>0</KEY_BOOM_COUNT>
+    <KEY_STAGE_NUM>3</KEY_STAGE_NUM>
+    <BG_SOUND>true</BG_SOUND>
+    <EF_SOUND>true</EF_SOUND>
+</userDefaultRoot>
